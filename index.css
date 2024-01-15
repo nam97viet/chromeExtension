@@ -33,3 +33,8 @@ li {
 a {
     color: #5f9341;
 }
+
+#delete-btn {
+    background-color: white;
+    color: #5f9341;
+}
